@@ -1,10 +1,10 @@
 *{
     margin: 0;
     padding: 0;
-    box-sizeing: border-box;
+    box-sizing: border-box;
 }
 .container{
-    weight: 100vw;
+    width: 100vw;
     height: 100vh;
     background-color: #000;
     color: #fff;
